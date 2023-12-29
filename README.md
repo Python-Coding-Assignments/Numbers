@@ -8,7 +8,7 @@
 </details>
 
 ## About the Project
-This project enables a user to enter an infinite number of integers, then prints out some information regarding those inputs.  This program prompts the user to enter in as many numbers as he/she wants, until the user inputs a zero.  To do this, a loop is needed; this loop runs until the sentinel value is entered.  Afterwards, some statistics of the user's inputs is displayed
+This project enables a user to enter an infinite number of integers, then prints out some information regarding those inputs.  This program prompts the user to enter in as many numbers as he/she wants, until the user inputs a zero.  To do this, a loop is needed; this loop runs until the sentinel value is entered.  Afterwards, some statistics of the user's inputs is displayed.
 
 The objective of this program is to demonstrate the following: 
 * practice writing a short Python program
